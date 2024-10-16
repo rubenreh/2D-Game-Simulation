@@ -1,3 +1,7 @@
+# 2D-Game Simulation
+# Author : Ruben Rehal
+# Date : July 14, 2024
+
 import numpy as np
 
 class Particle:
